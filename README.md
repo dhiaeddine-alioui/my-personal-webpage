@@ -1,11 +1,11 @@
-# Tester en locale
+# Local test
 ```
 export FLASK_APP=main.py
 flask run --reload --debugger
 ```
 
 
-# Deployer la page web
+# Deploy
 - Authenticate to Google using the SDK CLI
 ```
 gcloud auth login
